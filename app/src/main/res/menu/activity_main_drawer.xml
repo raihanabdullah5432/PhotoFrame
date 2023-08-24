@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+        <item
+            android:id="@+id/rateapps"
+            android:icon="@drawable/baseline_star_rate_24"
+            android:title="৫ স্টার দিন " />
+        <item
+            android:id="@+id/moreapps"
+            android:icon="@drawable/moreapps"
+            android:title=" অন্যান্য অ্যাপস সমূহ  " />
+
+        <item
+            android:id="@+id/shareapps"
+            android:icon="@drawable/baseline_share_24"
+            android:title=" অ্যাপসটি শেয়ার করুন" />
+        <item
+            android:id="@+id/facebookpage"
+            android:icon="@drawable/baseline_thumb_up_24"
+            android:title="ফেসবুক পেজ" />
+        <item
+            android:id="@+id/facebookgroup"
+            android:icon="@drawable/baseline_people_alt_24"
+            android:title="ফেসবুক গ্রুপ" />
+
+
+         <item
+             android:id="@+id/privacy"
+            android:icon="@drawable/baseline_lock_24"
+            android:title="প্রাইভেসি পলিসি" />
+
+
+</menu>
